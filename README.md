@@ -1,3 +1,5 @@
+![CARDS](https://github.com/Puchi-13/CARDS/issues/1#issue-2961140229)
+
 Esto es un juego hecho para la consola de Java que hice en verano de 2024.
 El juego lo hice en 1 mes y medio aproximadamente y está muy lejos de ser perfecto.
 De hecho, está fatal, ya que lo hice con conocimientos básicos de lo que aprendí en Bachillerato.
