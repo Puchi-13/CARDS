@@ -27,23 +27,23 @@ public class CARDS {
 		boolean comun17 = false;
 		boolean comun18 = false;
 
-		boolean especialSobresaliente1 = true;
+		boolean especialSobresaliente1 = false;
 		boolean especialSobresaliente2 = false;
-		boolean especialSobresaliente3 = true;
+		boolean especialSobresaliente3 = false;
 		boolean especialSobresaliente4 = false;
 		boolean especialSobresaliente5 = false;
 
-		boolean especialReconocimiento1 = true;
-		boolean especialReconocimiento2 = true;
+		boolean especialReconocimiento1 = false;
+		boolean especialReconocimiento2 = false;
 		boolean especialReconocimiento3 = false;
-		boolean especialReconocimiento4 = true;
+		boolean especialReconocimiento4 = false;
 		boolean especialReconocimiento5 = false;
 
-		boolean especialMomentum1 = true;
-		boolean especialMomentum2 = true;
+		boolean especialMomentum1 = false;
+		boolean especialMomentum2 = false;
 		boolean especialMomentum3 = false;
-		boolean especialMomentum4 = true;
-		boolean especialMomentum5 = true;
+		boolean especialMomentum4 = false;
+		boolean especialMomentum5 = false;
 
 		boolean fanaticoPOWER1 = false;
 		boolean fanaticoPOWER2 = false;
@@ -51,30 +51,30 @@ public class CARDS {
 		boolean fanaticoPOWER4 = false;
 
 		boolean fanaticoMEGA1 = false;
-		boolean fanaticoMEGA2 = true;
-		boolean fanaticoMEGA3 = true;
+		boolean fanaticoMEGA2 = false;
+		boolean fanaticoMEGA3 = false;
 		boolean fanaticoMEGA4 = false;
 
-		boolean SOTY1 = true;
-		boolean SOTY2 = true;
-		boolean SOTY3 = true;
-		boolean SOTY4 = true;
-		boolean SOTY5 = true;
+		boolean SOTY1 = false;
+		boolean SOTY2 = false;
+		boolean SOTY3 = false;
+		boolean SOTY4 = false;
+		boolean SOTY5 = false;
 
-		boolean diabloRemontada1 = true;
-		boolean diabloRemontada2 = true;
+		boolean diabloRemontada1 = false;
+		boolean diabloRemontada2 = false;
 
-		boolean diabloLunar1 = true;
-		boolean diabloLunar2 = true;
+		boolean diabloLunar1 = false;
+		boolean diabloLunar2 = false;
 
-		boolean flashback1 = true;
-		boolean flashback2 = true;
+		boolean flashback1 = false;
+		boolean flashback2 = false;
 
-		boolean omega1 = true;
+		boolean omega1 = false;
 
-		boolean icono1 = true;
+		boolean icono1 = false;
 		boolean icono2 = false;
-		boolean icono3 = true;
+		boolean icono3 = false;
 		boolean icono4 = false;
 		boolean icono5 = false;
 		boolean icono6 = false;
@@ -85,12 +85,12 @@ public class CARDS {
 		boolean leyenda1 = false;
 		boolean leyenda2 = false;
 
-		boolean unico1 = true;
-		boolean unico2 = true;
-		boolean unico3 = true;
-		boolean unico4 = true;
-		boolean unico5 = true;
-		boolean unico6 = true;
+		boolean unico1 = false;
+		boolean unico2 = false;
+		boolean unico3 = false;
+		boolean unico4 = false;
+		boolean unico5 = false;
+		boolean unico6 = false;
 
 		String azul = "\033[34m";
 		String rojo = "\033[31m";
