@@ -1,8 +1,7 @@
- ____  _____    _    ____  __  __ _____ 
-|  _ \| ____|  / \  |  _ \|  \/  | ____|
-| |_) |  _|   / _ \ | | | | |\/| |  _|  
-|  _ <| |___ / ___ \| |_| | |  | | |___ 
-|_| \_\_____/_/   \_\____/|_|  |_|_____|
+   ___  _______   ___  __  _______
+  / _ \/ __/ _ | / _ \/  |/  / __/
+ / , _/ _// __ |/ // / /|_/ / _/  
+/_/|_/___/_/ |_/____/_/  /_/___/  
 
 Esto es un juego hecho para la consola de Java que hice en verano de 2024.
 El juego lo hice en 1 mes y medio aproximadamente y está muy lejos de ser perfecto.
