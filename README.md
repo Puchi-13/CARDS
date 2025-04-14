@@ -7,7 +7,7 @@ Lo más difícil y avanzado que aprendí fue utilizar Scanner, así que ya te lo
 Aún así, estoy muy orgulloso de este juego y espero que os guste.
 
 Aquí os dejo el enlace para jugar al juego desde Replit:
-https://replit.com/join/nobkepuzbo-papros200
+[https://replit.com/join/nobkepuzbo-papros200](https://replit.com/@papros200/CARDS?v=1)
 
 -->Para jugar simplemente le das a la consola (puesta como uno de los apartados de la columna de la izquierda) y le das a Run en la parte de arriba de la pantalla.
 
