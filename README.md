@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3dc2ee12-8ced-4ceb-8229-9497099cf2c6)
+![Image](https://github.com/user-attachments/assets/d3cc4844-863f-4142-8375-18d61ccca855)
 
 Esto es un juego hecho para la consola de Java que hice en verano de 2024.
 El juego lo hice en 1 mes y medio aproximadamente y está muy lejos de ser perfecto.
